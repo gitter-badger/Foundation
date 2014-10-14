@@ -1,0 +1,19 @@
+{
+  "name": "foundation",
+  "version": "0.0.0",
+  "homepage": "https://github.com/regular-ui/Foundation",
+  "authors": [
+    "hzwuyuedong <hzwuyuedong@corp.netease.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test"
+  ],
+  "devDependencies": {
+    "foundation": "~5.4.6"
+  }
+}
